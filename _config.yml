@@ -1,1 +1,11 @@
+title: Manish Pushkar # your name (or website title) here
+logo: "/profile.png?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+ Software Engineer
+  <br><br>
+  <a href="mailto:m4manishpushkar@gmail.com">m4manishpushkar@gmail.com </a>
+  <br>
+  <a href="https://www.linkedin.com/in/m4manishpushkar/">LinkedIn Profile</a>
+  <br>
+  <a href="https://www.gihub.com/iampushkar/">Gihub</a> 
 theme: jekyll-theme-minimal
